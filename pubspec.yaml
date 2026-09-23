@@ -1,0 +1,24 @@
+name: sukaaaaaaaaaaaa
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/img/9d8e94eee9a8a2d6985d3f34298b53200302e5d5.png
+    - lib/img/Group 122.png
+    - lib/img/2c8be823c31da7fe8453d57825d263b9ebf8d1b6.jpg
+    - lib/img/ecef97c4927b0777344c52addd0aee987ea7c0e3.png
